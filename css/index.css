@@ -152,8 +152,10 @@ footer p{
 }
 
 /* Responsive */
+
+
 .container {
-    max-width: auto;
+    max-width: 800px an 500px;
     margin: 0 auto;
     border: 1px solid red;
     padding: 20px 1.25%;
